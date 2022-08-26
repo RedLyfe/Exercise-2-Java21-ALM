@@ -2,9 +2,4 @@
 person:
   name:
     first_name: panos
-    last_name: ioannidis
-  age: 22
-  class: Java21
-  start_year: 2021
-  hobbies: football
   
